@@ -1,2 +1,2 @@
 # Demo
-repository is ansible
+This repository is for ansible playbooks
